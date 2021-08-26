@@ -1,6 +1,6 @@
 Inventory required
-Hangers
-Clothes
-Ahoes
-Apples
-Kitech items
+Hangers 2 sets
+Clothes 3 pairs
+Ahoes 2 pairs
+Apples 2 dozens
+Kitech items as required
